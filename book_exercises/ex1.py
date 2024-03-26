@@ -6,15 +6,6 @@ last_name = "Reiss"
 
 print(f'{first_name} {last_name}')
 
-# 3. What does the following code do? Why?
-# print('5' + '10')
-
-print('510')
-
-# 4. Refactor the code from the previous exercise to use coercion to print 15 instead.
-
-print(int('5') + int('10'))
-
 
 
 
